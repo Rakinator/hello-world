@@ -7,3 +7,4 @@ I don't have much coding experience at the moment but I want to learn how to mak
 This means I want to learn HTML, CSS and Javascript.
 Mayby I'll also learn Java or C# for software development. 
 
+If you have tips on how to start learning how to code then please tell me!! :)
